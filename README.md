@@ -15,5 +15,3 @@ input http://localhost:8080/samples/real-time-collaboration-for-react.html in yo
 could open a new incognito window 
 and input http://localhost:8080/samples/real-time-collaboration-for-react.html in your browser too
 (mock multiple users)
-
-username
