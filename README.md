@@ -1,4 +1,4 @@
-The example has been built
+ckeditor real-time collaboration demo
 
 ###########1
 run npm install
