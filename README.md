@@ -1,17 +1,17 @@
 The example has been built
 
-###########
-how to run?
-run package.json script -> "dev": "webpack-dev-server --mode=development"
+###########1
+run npm install
 
-then project will be running at http://localhost:8080/
+###########2
+run package.json script -> "dev": "webpack-dev-server --mode=development" 
+(project will be running at http://localhost:8080/)
 
-###########
-how to access ckeditor with real-time collaboration
+###########3
 input http://localhost:8080/samples/real-time-collaboration-for-react.html in your browser
+(access to ckeditor with real-time collaboration)
 
-
-###########
-how to test multiple users
+###########4
 could open a new incognito window 
 and input http://localhost:8080/samples/real-time-collaboration-for-react.html in your browser too
+(mock multiple users)
